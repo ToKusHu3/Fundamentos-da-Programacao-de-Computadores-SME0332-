@@ -1,4 +1,6 @@
-# Fundamentos-da-Programacao-de-Computadores-2021
-Repositório destinado para armazenar os trabalhos realizados na disciplina de Fundamentos da Programação de Computadores ministrada no ano de 2021
+# Fundamentos-da-Programacao-de-Computadores-SME0332 
 
-O trabalho 7 não possui o enunciado das questões.
+Repositório destinado para armazenar os trabalhos realizados na disciplina de Fundamentos da Programação de Computadores (SME0332) ministrada no ano de 2021
+
+# Importante #
+  - O trabalho 7 não possui o enunciado das questões.
